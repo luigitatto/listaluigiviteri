@@ -1,21 +1,31 @@
 {
-	"name": "DjLuigiViteri",
-    "author": "luigiviteri (2023)",
-    "info": "Enlaces de deportes",
-    "telegram": "https://t.me/+m_hT75weoVMxZDFh",
-    "url": "https://raw.githubusercontent.com/luigitatto/listaluigiviteri/main/canalesluigiviteri",
+	"name": "ChukyHood",
+    "author": "chuky (Haz-tu-liada al 24-07-2023)",
+    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+    "info": "Enlaces de internet",
+    "telegram": "+9qG8GCvYZ3lmNjRk",
+    "url": "https://github.com/luigitatto/listaluigiviteri/edit/main/canalesluigiviteri",
     "groups": [{
-             "name": "Lista de Luigi Viteri",
+             "name": "Lista para todo el mundo (Sin lucrarse)",
+            "image": "https://i.ibb.co/h2yMPqM/fotoefectos-com-final-7538212838645764191.jpg",
             "info": "",
             "stations": [{}]
                   },{
             "name": "DEPORTES",
+            "image": "https://i.ibb.co/txrGK5F/MLB.jpg",
             "info": "",
             "stations": [{
-					"name": "ESPN-Argentina HD",
-                    "image": "https://i.ibb.co/pfvTKxK/espn.gif",
-               "url" : "https://tucanaldeportivo.com/espnhd.php",
-             "isHost": "true"
+                        "name": "ESPN",
+			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
+			"url" : "https://tucanaldeportivo.com/espn2hd.php",
+			"isHost": "true"
+              }, {
+			"name": "ESPN 2",
+			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
+			"url" : "https://tucanaldeportivo.com/espnhd.php",
+			"isHost": "true"
+ 
 		}]
              }] 
 }
+ 
