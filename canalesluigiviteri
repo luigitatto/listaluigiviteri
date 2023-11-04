@@ -1,0 +1,21 @@
+{
+	"name": "DjLuigiViteri",
+    "author": "luigiviteri (2023)",
+    "info": "Enlaces de deportes",
+    "telegram": "https://t.me/+m_hT75weoVMxZDFh",
+    "url": "https://t.me/+m_hT75weoVMxZDFh",
+    "groups": [{
+             "name": "Lista de Luigi Viteri",
+            "info": "",
+            "stations": [{}]
+                  },{
+            "name": "DEPORTES",
+            "info": "",
+            "stations": [{
+					"name": "ESPN-Argentina HD",
+                    "image": "https://i.ibb.co/pfvTKxK/espn.gif",
+               "url" : "https://tucanaldeportivo.com/espnhd.php",
+             "isHost": "true"
+		}]
+             }] 
+}
