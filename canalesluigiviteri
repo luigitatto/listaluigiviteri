@@ -6,8 +6,8 @@
     "telegram": "+9qG8GCvYZ3lmNjRk",
     "url": "https://raw.githubusercontent.com/luigitatto/listaluigiviteri/main/canalesluigiviteri",
     "groups": [{
-             "name": "Lista para todo el mundo (Sin lucrarse)",
-            "image": "https://i.ibb.co/h2yMPqM/fotoefectos-com-final-7538212838645764191.jpg",
+             "name": "Lista de Luigi Viteri",
+            "image": "https://i.ibb.co/RN573xz/Dj-Luigi-Viteri.jpg",
             "info": "",
             "stations": [{}]
                   },{
@@ -17,12 +17,22 @@
             "stations": [{
                         "name": "ESPN",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
-			"url" : "https://tucanaldeportivo.com/espn2hd.php",
+			"url" : "https://tucanaldeportivo.com/espnhd.php",
 			"isHost": "true"
               }, {
 			"name": "ESPN 2",
 			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
-			"url" : "https://tucanaldeportivo.com/espnhd.php",
+			"url" : "https://tucanaldeportivo.com/espn2hd.php",
+			"isHost": "true"
+              }, {
+			"name": "GOLTV EC",
+			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
+			"url" : "https://tucanaldeportivo.com/goltv.php",
+			"isHost": "true"
+              }, {
+			"name": "TNT SPORTS SD",
+			"image": "https://i.ibb.co/txrGK5F/MLB.jpg",
+			"url" : "https://tucanaldeportivo.com/tntsports.php",
 			"isHost": "true"
  
 		}]
