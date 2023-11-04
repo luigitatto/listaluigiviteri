@@ -60,6 +60,11 @@
 			"url" : "https://tucanaldeportivo.com/starplus.php",
 			"isHost": "true"
               }, {
+			"name": "FINAL COPA LIBERTADORES 2",
+			"image": "https://pbs.twimg.com/media/F-D1yVWXsAAQnBJ?format=jpg&name=large",
+			"url" : "https://player.flibre.icu/player.html?hash=VUFMdHptaVBSbVdDM0w4MW9VK0pIRVRSWmRXQlFoUmNjSDZsdDJkYzQwREFzekJRMVlCbUs1TU4zbTNJTXpzYk9wb1I3TUZ3dFRPNGFnbWoxVndTSTVyZWdQWU9xRkw3NnFZdDd1SXJuYjdma3U3VGlFTmdLdVhjNzNUQ3dwTEVvcjh2QWZIWHh4M3hMblAyOTVOWUhyTHlBeXFRRkFRWU1kTmVLMjlPUFBrSTlXNlI3OWtOMVNXSllSaHhwbjJPaWR5YlVRaVc5cGZRVHRwWXhHeS9JcTUzV01nTmp3RHpTWUliSFRyS0M2bE9HN0ZTeTJNPQ==",
+			"isHost": "true"
+              }, {
 			"name": "GUAYAQUIL CITY VS EMELEC",
 			"image": "https://pbs.twimg.com/media/F-F5h0KXMAAKZvq?format=jpg&name=large",
 			"url" : "https://tucanaldeportivo.com/canal22.php",
