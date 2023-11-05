@@ -40,9 +40,39 @@
 			"url" : "https://tucanaldeportivo.com/espn2hd.php",
 			"isHost": "true"
               }, {
+			"name": "ESPN 2 ALT ANDROID",
+			"image": "https://i.ibb.co/6cQZBmT/ESPN-2.png",
+			"url" : "https://daddylivehd.online/mylivetv/stream-150.php",
+			"isHost": "true"
+              }, {
+			"name": "ESPN 2 ALT IPHONE",
+			"image": "https://i.ibb.co/6cQZBmT/ESPN-2.png",
+			"url" : "https://sky.hlsjs.ru/sky/premium150/tracks-v1a1/mono.m3u8",
+			"isHost": "true"
+              }, {
 			"name": "ESPN 3",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyVGCbhS3aUW-0ksUKyNLuy7_pJdrJTt5bg__fn2WpMG-ChEqIsqcwdI9wO4kzmOvjoeWZzpByMmAD6Xx-3KwnXqN_Ycq-KA_U4rdjUCV6GhYpE2BblLGgBqenaR6JcWPqykg985hTSRy_LF1JgzKMUyv9I8ehDJY8hha_tixUnYLrBREz3YR69LZ2/s133/espn3.png",
 			"url" : "https://tucanaldeportivo.com/espn3-hd.php",
+			"isHost": "true"
+              }, {
+			"name": "ESPN DEPORTES ANDROID",
+			"image": "https://a.espncdn.com/photo/2019/1106/r624080_1520x579cc.jpg",
+			"url" : "https://daddylivehd.online/mylivetv/stream-375.php",
+			"isHost": "true"
+              }, {
+			"name": "ESPN DEPORTES IPHONE",
+			"image": "https://a.espncdn.com/photo/2019/1106/r624080_1520x579cc.jpg",
+			"url" : "https://sky.hlsjs.ru/sky/premium375/tracks-v1a1/mono.m3u8",
+			"isHost": "true"
+              }, {
+			"name": "ESPN PREMIUM ANDROID",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",
+			"url" : "https://daddylivehd.online/mylivetv/stream-387.php",
+			"isHost": "true"
+              }, {
+			"name": "ESPN PREMIUM IPHONE",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png",
+			"url" : "https://sky.hlsjs.ru/sky/premium387/tracks-v1a1/mono.m3u8",
 			"isHost": "true"
               }, {
 			"name": "GOLTV EC IPHONE",
@@ -58,6 +88,16 @@
 			"name": "TNT SPORTS SD",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtPGaU92MbTBe41J78fLNWFrdY3rBjAzZG8PaT_hsV7y1D3p6BW6QJWFyucK_FH3UUK2CZqK2vbNlKcw1mnFySlQQQdwlxvnBFw5SqW4Retg8w-Q_MLMc4TNOHbJfmpNKqswZAlFv5I2uZPZhTfVLrczfDfUs4PREtpI7kK6p6rsdMvcpPthIC_Hmh/s133/tntsports.png",
 			"url" : "https://tucanaldeportivo.com/tntsports.php",
+			"isHost": "true"
+              }, {
+			"name": "TNT SPORTS ARGENTINA ANDROID",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtPGaU92MbTBe41J78fLNWFrdY3rBjAzZG8PaT_hsV7y1D3p6BW6QJWFyucK_FH3UUK2CZqK2vbNlKcw1mnFySlQQQdwlxvnBFw5SqW4Retg8w-Q_MLMc4TNOHbJfmpNKqswZAlFv5I2uZPZhTfVLrczfDfUs4PREtpI7kK6p6rsdMvcpPthIC_Hmh/s133/tntsports.png",
+			"url" : "https://daddylivehd.online/mylivetv/stream-388.php",
+			"isHost": "true"
+              }, {
+			"name": "TNT SPORTS ARGENTINA IPHONE",
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtPGaU92MbTBe41J78fLNWFrdY3rBjAzZG8PaT_hsV7y1D3p6BW6QJWFyucK_FH3UUK2CZqK2vbNlKcw1mnFySlQQQdwlxvnBFw5SqW4Retg8w-Q_MLMc4TNOHbJfmpNKqswZAlFv5I2uZPZhTfVLrczfDfUs4PREtpI7kK6p6rsdMvcpPthIC_Hmh/s133/tntsports.png",
+			"url" : "https://ddh1.hlsjs.ru/ddh1/premium388/tracks-v1a1/mono.m3u8",
 			"isHost": "true"
               }, {
 			"name": "GLOBO PREMIERE ANDROID",
@@ -147,7 +187,87 @@
               }, {
 			"name": "TUDN IPHONE",
 			"image": "https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png",
-			"url" : "https://sky.hlsjs.ru/sky/premium66/tracks-v1a1/mono.m3u8",
+			"url" : "https://ddy4.hlsjs.ru/ddy4/premium66/tracks-v1a1/mono.m3u8",
+			"isHost": "true"
+              }, {
+			"name": "WWE ANDROID",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/WWE_white_logo.svg/1200px-WWE_white_logo.svg.png",
+			"url" : "https://daddylivehd.online/mylivetv/stream-108.php",
+			"isHost": "true"
+              }, {
+			"name": "WWE IPHONE",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/WWE_white_logo.svg/1200px-WWE_white_logo.svg.png",
+			"url" : "https://ddy5.hlsjs.ru/ddy5/premium108/tracks-v1a1/mono.m3u8",
+			"isHost": "true"
+              }, {
+			"name": "CANAL+ MOTOGP ANDROID",
+			"image": "https://static.wikia.nocookie.net/logopedia/images/9/99/Canal_MotoGP.svg/revision/latest?cb=20200906184552",
+			"url" : "https://daddylivehd.online/mylivetv/stream-271.php",
+			"isHost": "true"
+              }, {
+			"name": "CANAL+ MOTOGP IPHONE",
+			"image": "https://static.wikia.nocookie.net/logopedia/images/9/99/Canal_MotoGP.svg/revision/latest?cb=20200906184552",
+			"url" : "https://sky.hlsjs.ru/sky/premium271/tracks-v1a1/mono.m3u8",
+			"isHost": "true"
+              }, {
+			"name": "CBS SPORTS NETWORK ANDROID",
+			"image": "https://pbs.twimg.com/profile_images/1356268043941380099/QHq2W42n_400x400.jpg",
+			"url" : "https://ddy5.hlsjs.ru/ddy5/premium108/tracks-v1a1/mono.m3u8",
+			"isHost": "true"
+              }, {
+			"name": "CBS SPORTS NETWORK IPHONE",
+			"image": "https://pbs.twimg.com/profile_images/1356268043941380099/QHq2W42n_400x400.jpg",
+			"url" : "https://ddy3.hlsjs.ru/ddy3/premium308/tracks-v1a1/mono.m3u8",
+			"isHost": "true"
+              }, {
+			"name": "ESPN U ANDROID",
+			"image": "https://fiusports.com/images/2020/9/25/espnu.jpg?preset=large.socialmediaimage",
+			"url" : "https://daddylivehd.online/mylivetv/stream-316.php",
+			"isHost": "true"
+              }, {
+			"name": "ESPN U IPHONE",
+			"image": "https://fiusports.com/images/2020/9/25/espnu.jpg?preset=large.socialmediaimage",
+			"url" : "https://ddy3.hlsjs.ru/ddy3/premium316/tracks-v1a1/mono.m3u8",
+			"isHost": "true"
+              }, {
+			"name": "BEIN SPORTS Ñ ANDROID",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png",
+			"url" : "https://daddylivehd.online/mylivetv/stream-372.php",
+			"isHost": "true"
+              }, {
+			"name": "BEIN SPORTS Ñ IPHONE",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png",
+			"url" : "https://sky.hlsjs.ru/sky/premium372/tracks-v1a1/mono.m3u8",
+			"isHost": "true"
+              }, {
+			"name": "NFL NETWORK ANDROID",
+			"image": "https://yt3.googleusercontent.com/2UsW6ay838JOr1XA5CZqr4CmnODVcgETgnzM2xS8STrtKfB9Zy_ARBW8aBS8wIGwbRHIazFS=s900-c-k-c0x00ffffff-no-rj",
+			"url" : "https://sky.hlsjs.ru/sky/premium372/tracks-v1a1/mono.m3u8",
+			"isHost": "true"
+              }, {
+			"name": "NFL NETWORK IPHONE",
+			"image": "https://yt3.googleusercontent.com/2UsW6ay838JOr1XA5CZqr4CmnODVcgETgnzM2xS8STrtKfB9Zy_ARBW8aBS8wIGwbRHIazFS=s900-c-k-c0x00ffffff-no-rj",
+			"url" : "https://sky.hlsjs.ru/sky/premium405/tracks-v1a1/mono.m3u8",
+			"isHost": "true"
+              }, {
+			"name": "DEPORTES M+ ANDROID",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/320px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png",
+			"url" : "https://daddylivehd.online/mylivetv/stream-436.php",
+			"isHost": "true"
+              }, {
+			"name": "DEPORTES M+ IPHONE",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/320px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png",
+			"url" : "https://ddy3.hlsjs.ru/ddy3/premium436/tracks-v1a1/mono.m3u8",
+			"isHost": "true"
+              }, {
+			"name": "LIGA DE CAMPEONES ANDROID",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Movistar_Liga_de_Campeones.svg",
+			"url" : "https://daddylivehd.online/mylivetv/stream-521.php",
+			"isHost": "true"
+              }, {
+			"name": "LIGA DE CAMPEONES IPHONE",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Movistar_Liga_de_Campeones.svg",
+			"url" : "https://sky.hlsjs.ru/sky/premium521/tracks-v1a1/mono.m3u8",
 			"isHost": "true"
  
 		}]
