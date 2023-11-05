@@ -45,12 +45,12 @@
 			"url" : "https://tucanaldeportivo.com/espn3-hd.php",
 			"isHost": "true"
               }, {
-			"name": "GOLTV EC",
+			"name": "GOLTV EC IPHONE",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5iCOyKNq8RBjFe1TzfRR1hVpO1_m3XjzjAaFBgzqhmBZMxUpurmKZ24Py-XaRw7-th4i6ubX3l1pQv-SSURd5b442YOwW_mKV7PEPsZQnYIIk2Z6k0eI9_d84ftfsNGUWKpdeaFoNrWxl0r3My-ZoSvt6V2xYjf0FxadK32GO5DHVF05wyKw1NyBt/s133/goltv.png",
 			"url" : "https://ddy5.hlsjs.ru/ddy5/premium157/tracks-v1a1/mono.m3u8",
 			"isHost": "true"
               }, {
-			"name": "GOLTV EC OP2",
+			"name": "GOLTV EC ANDROID",
 			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5iCOyKNq8RBjFe1TzfRR1hVpO1_m3XjzjAaFBgzqhmBZMxUpurmKZ24Py-XaRw7-th4i6ubX3l1pQv-SSURd5b442YOwW_mKV7PEPsZQnYIIk2Z6k0eI9_d84ftfsNGUWKpdeaFoNrWxl0r3My-ZoSvt6V2xYjf0FxadK32GO5DHVF05wyKw1NyBt/s133/goltv.png",
 			"url" : "https://daddylivehd.online/mylivetv/stream-157.php",
 			"isHost": "true"
@@ -60,24 +60,94 @@
 			"url" : "https://tucanaldeportivo.com/tntsports.php",
 			"isHost": "true"
               }, {
-			"name": "FINAL COPA LIBERTADORES",
-			"image": "https://pbs.twimg.com/media/F-D1yVWXsAAQnBJ?format=jpg&name=large",
-			"url" : "https://daddylivehd.online/mylivetv/stream-372.php",
+			"name": "GLOBO PREMIERE ANDROID",
+			"image": "https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png",
+			"url" : "https://daddylivehd.online/mylivetv/stream-4.php",
 			"isHost": "true"
               }, {
-			"name": "FINAL COPA LIBERTADORES 2",
-			"image": "https://pbs.twimg.com/media/F-D1yVWXsAAQnBJ?format=jpg&name=large",
-			"url" : "https://whitemouseapple.com/telefe.html",
+			"name": "GLOBO PREMIERE IPHONE",
+			"image": "https://www.netflu.com.br/wp-content/uploads/2020/06/premiere.png",
+			"url" : "https://ddy2.hlsjs.ru/ddy2/premium4/tracks-v1a1/mono.m3u8",
 			"isHost": "true"
               }, {
-			"name": "GUAYAQUIL CITY VS EMELEC",
-			"image": "https://pbs.twimg.com/media/F-F5h0KXMAAKZvq?format=jpg&name=large",
-			"url" : "https://tucanaldeportivo.com/canal22.php",
+			"name": "TNT SPORTS IPHONE",
+			"image": "https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png",
+			"url" : "https://sky.hlsjs.ru/sky/premium31/tracks-v1a1/mono.m3u8",
 			"isHost": "true"
               }, {
-			"name": "LIGA VS IDV",
-			"image": "https://pbs.twimg.com/media/F-DrPCXW0AAM78p?format=jpg&name=large",
-			"url" : "https://tucanaldeportivo.com/canal23.php",
+			"name": "TNT SPORTS ANDROID",
+			"image": "https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports1_Logo_TNTBlack_RGB.png",
+			"url" : "https://daddylivehd.online/mylivetv/stream-31.php",
+			"isHost": "true"
+              }, {
+			"name": "TNT SPORTS 2 ANDROID",
+			"image": "https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png",
+			"url" : "https://daddylivehd.online/mylivetv/stream-32.php",
+			"isHost": "true"
+              }, {
+			"name": "TNT SPORTS 2 IPHONE",
+			"image": "https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports2_Logo_TNTBlack_RGB.png",
+			"url" : "https://sky.hlsjs.ru/sky/premium32/tracks-v1a1/mono.m3u8",
+			"isHost": "true"
+              }, {
+			"name": "TNT SPORTS 3 ANDROID",
+			"image": "https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_TNTBlack_RGB.png",
+			"url" : "https://daddylivehd.online/mylivetv/stream-33.php",
+			"isHost": "true"
+              }, {
+			"name": "TNT SPORTS 3 IPHONE",
+			"image": "https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_TNTBlack_RGB.png",
+			"url" : "https://sky.hlsjs.ru/sky/premium33/tracks-v1a1/mono.m3u8",
+			"isHost": "true"
+              }, {
+			"name": "FS1 ANDROID",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",
+			"url" : "https://daddylivehd.online/mylivetv/stream-39.php",
+			"isHost": "true"
+              }, {
+			"name": "FS1 IPHONE",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",
+			"url" : "https://sky.hlsjs.ru/sky/premium39/tracks-v1a1/mono.m3u8",
+			"isHost": "true"
+              }, {
+			"name": "EUROSPORTS 1 ANDROID",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",
+			"url" : "https://daddylivehd.online/mylivetv/stream-41.php",
+			"isHost": "true"
+              }, {
+			"name": "EUROSPORTS 1 IPHONE",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",
+			"url" : "https://ddy4.hlsjs.ru/ddy4/premium41/tracks-v1a1/mono.m3u8",
+			"isHost": "true"
+              }, {
+			"name": "EUROSPORTS 2 ANDROID",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",
+			"url" : "https://daddylivehd.online/mylivetv/stream-42.php",
+			"isHost": "true"
+              }, {
+			"name": "EUROSPORTS 2 IPHONE",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",
+			"url" : "https://webudit.hlsjs.ru/lb/premium42/tracks-v1a1/mono.m3u8",
+			"isHost": "true"
+              }, {
+			"name": "CBS SEC ANDROID",
+			"image": "https://cloudfront-us-east-1.images.arcpublishing.com/gray/X467F2LEI5DVFEFYMNIOENMJTM.jpg",
+			"url" : "https://daddylivehd.online/mylivetv/stream-52.php",
+			"isHost": "true"
+              }, {
+			"name": "CBS SEC IPHONE",
+			"image": "https://cloudfront-us-east-1.images.arcpublishing.com/gray/X467F2LEI5DVFEFYMNIOENMJTM.jpg",
+			"url" : "https://sky.hlsjs.ru/sky/premium52/tracks-v1a1/mono.m3u8",
+			"isHost": "true"
+              }, {
+			"name": "TUDN ANDROID",
+			"image": "https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png",
+			"url" : "https://daddylivehd.online/mylivetv/stream-66.php",
+			"isHost": "true"
+              }, {
+			"name": "TUDN IPHONE",
+			"image": "https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png",
+			"url" : "https://sky.hlsjs.ru/sky/premium66/tracks-v1a1/mono.m3u8",
 			"isHost": "true"
  
 		}]
