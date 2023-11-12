@@ -39,6 +39,11 @@
                     "image": "https://pbs.twimg.com/media/F-v4XVdWYAAHb6X?format=jpg&name=large",
                     "url": "https://voodc.com/embed/85899a90a187839187998385979098878399.html",
                     "isHost": "true"
+               },{
+                    "name": "Emelec vs Barcelona op3",
+                    "image": "https://pbs.twimg.com/media/F-v4XVdWYAAHb6X?format=jpg&name=large",
+                    "url": "https://videographlive.akamaized.net/in/vglivein/vgrec-sk-664267/chunks.m3u8",
+                    "userAgent": ""
  
 		}]
              }] 
