@@ -10,7 +10,7 @@
             "image": "https://i.ibb.co/RN573xz/Dj-Luigi-Viteri.jpg",
             "info": "",
             "stations": [{
-                        "name": "Emelec vs Barcelona -ANDROID",
+                        "name": "Emelec vs Barcelona - ANDROID",
 			"image": "https://pbs.twimg.com/media/F-v4XVdWYAAHb6X?format=jpg&name=large",
 			"url" : "https://voodc.com/embed/85899a90a1858c9387998385948c98868a97.html",
 			"isHost": "true"
@@ -18,7 +18,8 @@
 			"name": "Emelec vs Barcelona - IPHONE",
 			"image": "https://pbs.twimg.com/media/F-v4XVdWYAAHb6X?format=jpg&name=large",
 			"url" : "https://vp01.dlive.click/MzKRpqOx0XnJ5ikndXO0nw/1699854084/3138312e3139392e35342e313437/ff235/playlist.m3u8",
-			"isHost": "true"stations": [{}]
+			"isHost": "true"
+              }
                   },{
             "name": "DEPORTES",
             "image": "https://i.ibb.co/RN573xz/Dj-Luigi-Viteri.jpg",
