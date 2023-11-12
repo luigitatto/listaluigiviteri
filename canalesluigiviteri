@@ -15,31 +15,30 @@
             "image": "https://i.ibb.co/RN573xz/Dj-Luigi-Viteri.jpg",
             "info": "",
             "stations": [{
-                        "name": "ESPN",
-			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAvkNzwVtME1QIpp6ukaAfH_dTYVOn1UgbnHBDwY0ARIurxm9ufkXvt32LCz9hMdA6oHb9Z7g118pIBulDFECuk-j9RYcGIo23_mxbtIklwXB2vWKV3NDUv0DzL5IJkeWOnZ6NBO9klYIVpzNs-kGrkbQpNV6LtsqTbzyYU9cc7Xij3vmop5GHwEJj/s133/espn.png",
-			"url" : "https://tucanaldeportivo.com/espnhd.php",
-			"isHost": "true"
+                        "name": "GOLTV EC - IPHONE",
+			"image": "https://ipuntotv.com/IMAGES/Goltv-ecuador.png",
+			"url" : "http://magmas5.com:8000/sunlink/dFIdo0UaMM/145446",
+			"userAgent": ""
               }, {
-			"name": "LIGA DE CAMPEONES IPHONE",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Movistar_Liga_de_Campeones.svg",
-			"url" : "https://sky.hlsjs.ru/sky/premium521/tracks-v1a1/mono.m3u8",
-			"isHost": "true"
+			"name": "GOLTV EC - ANDROID",
+			"image": "https://ipuntotv.com/IMAGES/Goltv-ecuador.png",
+			"url" : "http://magmas5.com:8000/sunlink/dFIdo0UaMM/145446",
+			"userAgent": ""
 		}]
 		 	},{       
             "name": "EVENTOS PUNTUALES DjLuigiViteri",
-            "image": "https://i.ibb.co/GVWQTzN/Sin-t-tulo.gif",
+            "image": "https://i.ibb.co/RN573xz/Dj-Luigi-Viteri.jpg",
             "info": "",
             "stations": [{
-	            "name": "Evento 1",
-                    "image": "https://i.ibb.co/r4YSd7w/ufc-manu.jpg",
-               "url": "https://vkvsd18.mycdn.me/hls/3453069232666.m3u8/sig/MnEr8JA3VV8/expires/1673810923871/srcIp/95.17.170.240/urls/185.226.52.66/clientType/13/srcAg/CHROME_ANDROID/mid/4460647099162/3453069232666_high/index.m3u8",
-             "userAgent": ""
-                    },{
-                 "name": "Emmett vs Topuria",
+	            "name": "EMELEC VS BARCELONA",
+                    "image": "https://pbs.twimg.com/media/F-v4XVdWYAAHb6X?format=jpg&name=large",
+                    "url": "http://31.42.185.216:8000/decaicedo22/LYP8385l0j/132884",
+                    "userAgent": ""
+               },{
+                    "name": "Emmett vs Topuria",
                     "image": "https://www.mmateam.org/wp-content/uploads/2020/08/Mun%CC%83ecas.jpg",
-                 "url": "https://vikistream.com/embed2.php?player=desktop&live=do40",
-            "referer" : "https://l1l1.to/",
-             "isHost": "true"
+                    "url": "https://vikistream.com/embed2.php?player=desktop&live=do40",
+                    "isHost": "true"
  
 		}]
              }] 
