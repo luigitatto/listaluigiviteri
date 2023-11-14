@@ -158,9 +158,19 @@
             "image": "https://i.ibb.co/RN573xz/Dj-Luigi-Viteri.jpg",
             "info": "",
             "stations": [{
-	            "name": "ESPN ARG",
+	            "name": "ESPN SUR",
 		    "image": "https://www.telegratishd.com/imge/espn.png",
-		    "url" : "https://deportelibre.live/channel/espn?",
+		    "url" : "https://dlhd.sx/embed/stream-149.php",
+		    "isHost": "true"
+              }, {
+		    "name": "ESPN 2 SUR",
+		    "image": "https://www.telegratishd.com/imge/espn2.png",
+		    "url" : "https://dlhd.sx/embed/stream-150.php",
+		    "isHost": "true"
+              }, {
+		    "name": "ESPN PREMIUM",
+		    "image": "https://www.telegratishd.com/imge/espnpremium.png",
+		    "url" : "https://dlhd.sx/embed/stream-387.php",
 		    "isHost": "true"
 		}]
 		 	},{       
@@ -168,20 +178,30 @@
             "image": "https://i.ibb.co/RN573xz/Dj-Luigi-Viteri.jpg",
             "info": "",
             "stations": [{
-	            "name": "EMELEC VS BARCELONA",
-                    "image": "https://pbs.twimg.com/media/F-v4XVdWYAAHb6X?format=jpg&name=large",
+	            "name": "BOLIVIA VS PERU",
+                    "image": "https://pbs.twimg.com/media/F-wDB0zXQAEyi8I?format=jpg&name=large",
                     "url": "http://31.42.185.216:8000/decaicedo22/LYP8385l0j/132884",
                     "userAgent": ""
                },{
-                    "name": "Emelec vs Barcelona op2",
-                    "image": "https://pbs.twimg.com/media/F-v4XVdWYAAHb6X?format=jpg&name=large",
+                    "name": "VENEZUELA VS ECUADOR",
+                    "image": "https://pbs.twimg.com/media/F-wDB0zXQAEyi8I?format=jpg&name=large",
                     "url": "https://voodc.com/embed/85899a90a187839187998385979098878399.html",
                     "isHost": "true"
                },{
-                    "name": "Emelec vs Barcelona op3",
-                    "image": "https://pbs.twimg.com/media/F-v4XVdWYAAHb6X?format=jpg&name=large",
+                    "name": "COLOMBIA VS BRASIL",
+                    "image": "https://pbs.twimg.com/media/F-wDB0zXQAEyi8I?format=jpg&name=large",
                     "url": "https://videographlive.akamaized.net/in/vglivein/vgrec-sk-664267/chunks.m3u8",
                     "userAgent": ""
+               },{
+                    "name": "ARGENTINA VS URUGUAY",
+                    "image": "https://pbs.twimg.com/media/F-wDB0zXQAEyi8I?format=jpg&name=large",
+                    "url": "https://voodc.com/embed/85899a90a187839187998385979098878399.html",
+                    "isHost": "true"
+               },{
+                    "name": "CHILE VS PARAGUAY",
+                    "image": "https://pbs.twimg.com/media/F-wDB0zXQAEyi8I?format=jpg&name=large",
+                    "url": "https://voodc.com/embed/85899a90a187839187998385979098878399.html",
+                    "isHost": "true"
  
 		}]
              }] 
