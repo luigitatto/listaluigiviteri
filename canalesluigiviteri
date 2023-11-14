@@ -179,9 +179,9 @@
             "info": "",
             "stations": [{
 	            "name": "BOLIVIA VS PERU",
-		    "image": "https://www.telegratishd.com/imge/goltv.png",
-		    "url" : "https://deportestvhd.com/en-vivo/goltv.html",
-		    "referer" : "https://deportestvhd.com/",
+		    "image": "https://pbs.twimg.com/media/F-wDB0zXQAEyi8I?format=jpg&name=large",
+		    "url" : "https://telegratis.online/canal/chilevision-en-vivo/",
+		    "referer" : "https://telegratis.online/es/",
 		    "isHost": "true"
                },{
                     "name": "VENEZUELA VS ECUADOR",
