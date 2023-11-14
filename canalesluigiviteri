@@ -161,7 +161,7 @@
 	            "name": "ESPN 1ESPN ARG",
 		    "image": "https://www.telegratishd.com/imge/espn.png",
 		    "url" : "https://tucanaldeportivo.com/espn-hd.php",
-		    "referer" : "https://www.telegratishd.com",
+		    "referer" : "https://tucanaldeportivo.com/canales.php",
 		    "isHost": "true"
 		}]
 		 	},{       
