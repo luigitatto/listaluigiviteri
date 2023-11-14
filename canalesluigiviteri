@@ -180,7 +180,7 @@
             "stations": [{
 	            "name": "BOLIVIA VS PERU",
 		    "image": "https://pbs.twimg.com/media/F-wDB0zXQAEyi8I?format=jpg&name=large",
-		    "url" : "https://deportestvhd.com/en-vivo/goltv.html,
+		    "url" : "https://deportestvhd.com/en-vivo/goltv.html",
 		    "referer" : "https://cabletvhd.xyz/",
 		    "isHost": "true"
                },{
