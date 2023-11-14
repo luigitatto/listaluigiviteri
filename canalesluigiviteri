@@ -15,18 +15,140 @@
             "image": "https://i.ibb.co/RN573xz/Dj-Luigi-Viteri.jpg",
             "info": "",
             "stations": [{
-                        "name": "GOLTV EC - IPHONE",
-			"image": "https://ipuntotv.com/IMAGES/Goltv-ecuador.png",
-			"url" : "http://magmas5.com:8000/sunlink/dFIdo0UaMM/145446",
-			"userAgent": ""
+                        "name": "ESPN XTRA",
+			"image": "https://www.telegratishd.com/imge/espnxtra.png",
+			"url" : "https://www.telegratishd.com/live6/espnxtra.php",
+		        "referer" : "https://www.telegratishd.com",
+			"isHost": "true"
               }, {
-			"name": "GOLTV EC - ANDROID",
-			"image": "https://ipuntotv.com/IMAGES/Goltv-ecuador.png",
-			"url" : "http://magmas5.com:8000/sunlink/dFIdo0UaMM/145446",
-			"userAgent": ""
+			"name": "ESPN PREMIUM",
+			"image": "https://www.telegratishd.com/imge/espnpremium.png",
+			"url" : "https://www.telegratishd.com/live6/espnpremium.php",
+		        "referer" : "https://www.telegratishd.com",
+			"isHost": "true"
               }, {
-			"name": "GOLTV GENERAL",
-			"image": "https://ipuntotv.com/IMAGES/Goltv-ecuador.png",
+			"name": "ESPN ARG OP1",
+			"image": "https://www.telegratishd.com/imge/espn.png",
+			"url" : "https://www.telegratishd.com/live4/espn.php",
+		        "referer" : "https://www.telegratishd.com",
+			"isHost": "true"
+              }, {
+			"name": "ESPN ARG OP2",
+			"image": "https://www.telegratishd.com/imge/espn.png",
+			"url" : "https://www.telegratishd.com/live5/espn.php",
+		        "referer" : "https://www.telegratishd.com",
+			"isHost": "true"
+              }, {
+			"name": "ESPN ARG OP3",
+			"image": "https://www.telegratishd.com/imge/espn.png",
+			"url" : "https://www.telegratishd.com/live6/espn.php",
+		        "referer" : "https://www.telegratishd.com",
+			"isHost": "true"
+              }, {
+			"name": "ESPN COL OP1",
+			"image": "https://www.telegratishd.com/imge/espn.png",
+			"url" : "https://www.telegratishd.com/live4/espncol.php",
+		        "referer" : "https://www.telegratishd.com",
+			"isHost": "true"
+              }, {
+			"name": "ESPN COL OP2",
+			"image": "https://www.telegratishd.com/imge/espn.png",
+			"url" : "https://www.telegratishd.com/live6/espncol.php",
+		        "referer" : "https://www.telegratishd.com",
+			"isHost": "true"
+              }, {
+			"name": "ESPN COL OP3",
+			"image": "https://www.telegratishd.com/imge/espn.png",
+			"url" : "https://www.telegratishd.com/live5/espncol.php",
+		        "referer" : "https://www.telegratishd.com",
+			"isHost": "true"
+              }, {
+			"name": "ESPN 2 ARG OP1",
+			"image": "https://www.telegratishd.com/imge/espn2.png",
+			"url" : "https://www.telegratishd.com/live4/espn2.php",
+		        "referer" : "https://www.telegratishd.com",
+			"isHost": "true"
+              }, {
+			"name": "ESPN 2 ARG OP2",
+			"image": "https://www.telegratishd.com/imge/espn2.png",
+			"url" : "https://www.telegratishd.com/live5/espn2.php",
+		        "referer" : "https://www.telegratishd.com",
+			"isHost": "true"
+              }, {
+			"name": "ESPN 2 ARG OP3",
+			"image": "https://www.telegratishd.com/imge/espn2.png",
+			"url" : "https://www.telegratishd.com/live6/espn2.php",
+		        "referer" : "https://www.telegratishd.com",
+			"isHost": "true"
+              }, {
+			"name": "ESPN 2 COL OP1",
+			"image": "https://www.telegratishd.com/imge/espn2.png",
+			"url" : "https://www.telegratishd.com/live4/espn2col.php",
+		        "referer" : "https://www.telegratishd.com",
+			"isHost": "true"
+              }, {
+			"name": "ESPN 2 COL OP2",
+			"image": "https://www.telegratishd.com/imge/espn2.png",
+			"url" : "https://www.telegratishd.com/live5/espn2col.php",
+		        "referer" : "https://www.telegratishd.com",
+			"isHost": "true"
+              }, {
+			"name": "ESPN 2 COL OP3",
+			"image": "https://www.telegratishd.com/imge/espn2.png",
+			"url" : "https://www.telegratishd.com/live6/espn2col.php",
+		        "referer" : "https://www.telegratishd.com",
+			"isHost": "true"
+              }, {
+			"name": "ESPN 3 OP1",
+			"image": "https://www.telegratishd.com/imge/espn3.png",
+			"url" : "https://www.telegratishd.com/live4/espn3.php",
+		        "referer" : "https://www.telegratishd.com",
+			"isHost": "true"
+              }, {
+			"name": "ESPN 3 OP2",
+			"image": "https://www.telegratishd.com/imge/espn3.png",
+			"url" : "https://www.telegratishd.com/live5/espn3.php",
+		        "referer" : "https://www.telegratishd.com",
+			"isHost": "true"
+              }, {
+			"name": "ESPN 3 OP3",
+			"image": "https://www.telegratishd.com/imge/espn3.png",
+			"url" : "https://www.telegratishd.com/live6/espn3.php",
+		        "referer" : "https://www.telegratishd.com",
+			"isHost": "true"
+              }, {
+			"name": "ESPN 4 OP1",
+			"image": "https://www.telegratishd.com/imge/espn4.png",
+			"url" : "https://www.telegratishd.com/live4/espn4.php",
+		        "referer" : "https://www.telegratishd.com",
+			"isHost": "true"
+              }, {
+			"name": "ESPN 4 OP2",
+			"image": "https://www.telegratishd.com/imge/espn4.png",
+			"url" : "https://www.telegratishd.com/live5/espn4.php",
+		        "referer" : "https://www.telegratishd.com",
+			"isHost": "true"
+              }, {
+			"name": "ESPN 4 OP3",
+			"image": "https://www.telegratishd.com/imge/espn4.png",
+			"url" : "https://www.telegratishd.com/live6/espn4.php",
+		        "referer" : "https://www.telegratishd.com",
+			"isHost": "true"
+              }, {
+			"name": "GOLTV OP1",
+			"image": "https://www.telegratishd.com/imge/goltv.png",
+			"url" : "https://www.telegratishd.com/live4/goltv.php",
+		        "referer" : "https://www.telegratishd.com",
+			"isHost": "true"
+              }, {
+			"name": "GOLTV OP2",
+			"image": "https://www.telegratishd.com/imge/goltv.png",
+			"url" : "https://www.telegratishd.com/live5/goltv.php",
+		        "referer" : "https://www.telegratishd.com",
+			"isHost": "true"
+              }, {
+			"name": "GOLTV OP3",
+			"image": "https://www.telegratishd.com/imge/goltv.png",
 			"url" : "https://www.telegratishd.com/live6/goltv.php",
 		        "referer" : "https://www.telegratishd.com",
 			"isHost": "true"
