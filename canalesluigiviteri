@@ -181,7 +181,7 @@
 	            "name": "BOLIVIA VS PERU",
 		    "image": "https://www.telegratishd.com/imge/goltv.png",
 		    "url" : "https://deportestvhd.com/en-vivo/goltv.html",
-		    "referer" : "//cabletvhd.xyz/",
+		    "referer" : "https://cabletvhd.xyz/",
 		    "isHost": "true"
                },{
                     "name": "VENEZUELA VS ECUADOR",
