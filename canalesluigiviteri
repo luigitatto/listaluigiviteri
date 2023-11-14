@@ -11,7 +11,7 @@
             "info": "",
             "stations": [{}]
                   },{
-            "name": "DEPORTES",
+            "name": "Deportes para iPhone",
             "image": "https://i.ibb.co/RN573xz/Dj-Luigi-Viteri.jpg",
             "info": "",
             "stations": [{
@@ -152,6 +152,17 @@
 			"url" : "https://www.telegratishd.com/live6/goltv.php",
 		        "referer" : "https://www.telegratishd.com",
 			"isHost": "true"
+		}]
+		 	},{       
+            "name": "Deportes Android",
+            "image": "https://i.ibb.co/RN573xz/Dj-Luigi-Viteri.jpg",
+            "info": "",
+            "stations": [{
+	            "name": "ESPN 1ESPN ARG",
+		    "image": "https://www.telegratishd.com/imge/espn.png",
+		    "url" : "https://tucanaldeportivo.com/espn-hd.php",
+		    "referer" : "https://www.telegratishd.com",
+		    "isHost": "true"
 		}]
 		 	},{       
             "name": "EVENTOS PUNTUALES DjLuigiViteri",
