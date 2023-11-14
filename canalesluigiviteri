@@ -179,9 +179,10 @@
             "info": "",
             "stations": [{
 	            "name": "BOLIVIA VS PERU",
-                    "image": "https://pbs.twimg.com/media/F-wDB0zXQAEyi8I?format=jpg&name=large",
-                    "url": "http://31.42.185.216:8000/decaicedo22/LYP8385l0j/132884",
-                    "userAgent": ""
+		    "image": "https://pbs.twimg.com/media/F-wDB0zXQAEyi8I?format=jpg&name=large",
+		    "url" : "https://deportestvhd.com/en-vivo/goltv.html,
+		    "referer" : "https://cabletvhd.xyz/",
+		    "isHost": "true"
                },{
                     "name": "VENEZUELA VS ECUADOR",
                     "image": "https://pbs.twimg.com/media/F-wDB0zXQAEyi8I?format=jpg&name=large",
