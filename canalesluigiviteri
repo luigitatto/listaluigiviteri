@@ -158,10 +158,9 @@
             "image": "https://i.ibb.co/RN573xz/Dj-Luigi-Viteri.jpg",
             "info": "",
             "stations": [{
-	            "name": "ESPN 1ESPN ARG",
+	            "name": "ESPN ARG",
 		    "image": "https://www.telegratishd.com/imge/espn.png",
 		    "url" : "https://tucanaldeportivo.com/espn-argentina.php",
-		    "referer" : "https://tucanaldeportivo.com/canales.php",
 		    "isHost": "true"
 		}]
 		 	},{       
