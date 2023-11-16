@@ -178,16 +178,74 @@
             "image": "https://i.ibb.co/RN573xz/Dj-Luigi-Viteri.jpg",
             "info": "",
             "stations": [{
-	            "name": "BOLIVIA VS PERU",
-		    "image": "https://pbs.twimg.com/media/F-wDB0zXQAEyi8I?format=jpg&name=large",
-		    "url" : "https://telegratis.online/canal/chilevision-en-vivo/",
-		    "referer" : "https://telegratis.online/es/",
+	            "name": "BOLIVIA VS PERU OP1",
+		    "image": "https://pbs.twimg.com/media/F-ba3CQWEAA9VVF?format=jpg&name=large",
+		    "url" : "https://dlhd.sx/embed/stream-78.php",
 		    "isHost": "true"
                },{
-                    "name": "VENEZUELA VS ECUADOR",
-                    "image": "https://pbs.twimg.com/media/F-wDB0zXQAEyi8I?format=jpg&name=large",
-                    "url": "https://voodc.com/embed/85899a90a187839187998385979098878399.html",
+                    "name": "BOLIVIA VS PERU OP2",
+                    "image": "https://pbs.twimg.com/media/F-ba3CQWEAA9VVF?format=jpg&name=large",
+                    "url": "https://dlhd.sx/embed/stream-746.php",
                     "isHost": "true"
+               },{
+                    "name": "BOLIVIA VS PERU OP3",
+                    "image": "https://pbs.twimg.com/media/F-ba3CQWEAA9VVF?format=jpg&name=large",
+                    "url": "https://dlhd.sx/embed/stream-4.php",
+                    "isHost": "true"
+              }, {
+		    "name": "BOLIVIA VS PERU iphone 1",
+		    "image": "https://pbs.twimg.com/media/F-ba3CQWEAA9VVF?format=jpg&name=large",
+		    "url" : "https://www.telegratishd.com/live6/latina.php",
+		    "referer" : "https://www.telegratishd.com",
+		    "isHost": "true"
+              }, {
+		    "name": "BOLIVIA VS PERU iphone 2",
+		    "image": "https://pbs.twimg.com/media/F-ba3CQWEAA9VVF?format=jpg&name=large",
+		    "url" : "https://www.telegratishd.com/live6/movistardeportes.php",
+		    "referer" : "https://www.telegratishd.com",
+		    "isHost": "true"
+               },{
+                    "name": "VENEZUELA VS ECUADOR OP1",
+                    "image": "https://pbs.twimg.com/media/F-bdYQTWEAAhJpN?format=jpg&name=large",
+                    "url": "https://dlhd.sx/embed/stream-79.php",
+                    "isHost": "true"
+               },{
+                    "name": "VENEZUELA VS ECUADOR OP2",
+                    "image": "https://pbs.twimg.com/media/F-bdYQTWEAAhJpN?format=jpg&name=large",
+                    "url": "https://dlhd.sx/embed/stream-10.php",
+                    "isHost": "true"
+               },{
+                    "name": "VENEZUELA VS ECUADOR OP3",
+                    "image": "https://pbs.twimg.com/media/F-bdYQTWEAAhJpN?format=jpg&name=large",
+                    "url": "https://dlhd.sx/embed/stream-72.php",
+                    "isHost": "true"
+               },{
+                    "name": "VENEZUELA VS ECUADOR OP4",
+                    "image": "https://pbs.twimg.com/media/F-bdYQTWEAAhJpN?format=jpg&name=large",
+                    "url": "https://dlhd.sx/embed/stream-127.php",
+                    "isHost": "true"
+               },{
+                    "name": "VENEZUELA VS ECUADOR OP5",
+                    "image": "https://pbs.twimg.com/media/F-bdYQTWEAAhJpN?format=jpg&name=large",
+                    "url": "https://dlhd.sx/embed/stream-135.php",
+                    "isHost": "true"
+               },{
+                    "name": "VENEZUELA VS ECUADOR OP6",
+                    "image": "https://pbs.twimg.com/media/F-bdYQTWEAAhJpN?format=jpg&name=large",
+                    "url": "https://dlhd.sx/embed/stream-143.php",
+                    "isHost": "true"
+              }, {
+		    "name": "VENEZUELA VS ECUADOR iphone 1",
+		    "image": "https://pbs.twimg.com/media/F-bdYQTWEAAhJpN?format=jpg&name=large",
+		    "url" : "https://www.telegratishd.com/live6/caracol.php",
+		    "referer" : "https://www.telegratishd.com",
+		    "isHost": "true"
+              }, {
+		    "name": "VENEZUELA VS ECUADOR iphone 2",
+		    "image": "https://pbs.twimg.com/media/F-bdYQTWEAAhJpN?format=jpg&name=large",
+		    "url" : "https://www.telegratishd.com/live6/rcn.php",
+		    "referer" : "https://www.telegratishd.com",
+		    "isHost": "true
                },{
                     "name": "COLOMBIA VS BRASIL",
                     "image": "https://pbs.twimg.com/media/F-wDB0zXQAEyi8I?format=jpg&name=large",
