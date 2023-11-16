@@ -268,7 +268,8 @@
                     "isHost": "true"
                },{
                     "name": "COLOMBIA VS BRASIL iphone 1",
-                    "image": "https://www.telegratishd.com/live6/caracol.php",
+		    "image": "https://pbs.twimg.com/media/F-g4--sXAAA7wAD?format=jpg&name=large",
+                    "url": "https://www.telegratishd.com/live6/caracol.php",
 		    "referer" : "https://www.telegratishd.com",
 		    "isHost": "true"
                },{
