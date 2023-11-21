@@ -173,6 +173,46 @@
 		    "url" : "https://dlhd.sx/embed/stream-387.php",
 		    "isHost": "true"
 		}]
+		 	},{       
+            "name": "ELIMINATORIAS",
+            "image": "https://i.ibb.co/RN573xz/Dj-Luigi-Viteri.jpg",
+            "info": "",
+            "stations": [{
+	            "name": "ECUADOR VS CHILE OP1",
+                    "image": "https://pbs.twimg.com/media/F_YIl6WWsAAd-ud?format=jpg&name=medium",
+                    "url": "https://dlhd.sx/embed/stream-2.php",
+                    "isHost": "true"
+              }, {
+		    "name": "ECUADOR VS CHILE OP2",
+                    "image": "https://pbs.twimg.com/media/F_YIl6WWsAAd-ud?format=jpg&name=medium",
+                    "url": "https://dlhd.sx/embed/stream-74.php",
+                    "isHost": "true"
+              }, {
+		    "name": "ECUADOR VS CHILE OP3",
+                    "image": "https://pbs.twimg.com/media/F_YIl6WWsAAd-ud?format=jpg&name=medium",
+                    "url": "https://dlhd.sx/embed/stream-123.php",
+                    "isHost": "true"
+              }, {
+		    "name": "ECUADOR VS CHILE OP4",
+                    "image": "https://pbs.twimg.com/media/F_YIl6WWsAAd-ud?format=jpg&name=medium",
+                    "url": "https://dlhd.sx/embed/stream-139.php",
+                    "isHost": "true"
+              }, {
+		    "name": "ECUADOR VS CHILE EXCLUSIVO",
+                    "image": "https://pbs.twimg.com/media/F_YIl6WWsAAd-ud?format=jpg&name=medium",
+                    "url": "https://tucanaldeportivo.com/ecfutbol.php",
+                    "isHost": "true"
+              }, {
+		    "name": "ECUADOR VS CHILE OP5",
+		    "image": "https://pbs.twimg.com/media/F_YIl6WWsAAd-ud?format=jpg&name=medium",
+                    "url": "https://tucanaldeportivo.com/chilevision.php",
+		    "isHost": "true"
+              }, {
+		    "name": "ECUADOR VS CHILE iphone OP6",
+                    "image": "https://pbs.twimg.com/media/F_YIl6WWsAAd-ud?format=jpg&name=medium",
+                    "url": "https://dlhd.sx/embed/stream-642.php",
+		    "isHost": "true"
+		}]
              }] 
 }
  
