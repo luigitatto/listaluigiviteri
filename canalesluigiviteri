@@ -178,10 +178,79 @@
             "image": "https://i.ibb.co/RN573xz/Dj-Luigi-Viteri.jpg",
             "info": "",
             "stations": [{
-	            "name": "SIN ACCESO",
-		    "image": "https://i.ibb.co/RN573xz/Dj-Luigi-Viteri.jpg",
+	            "name": "BOLIVIA VS PERU OP1",
+		    "image": "https://pbs.twimg.com/media/F-ba3CQWEAA9VVF?format=jpg&name=large",
 		    "url" : "https://dlhd.sx/embed/stream-78.php",
-		    "isHost": "true
+		    "isHost": "true"
+               },{
+                    "name": "BOLIVIA VS PERU OP2",
+                    "image": "https://pbs.twimg.com/media/F-ba3CQWEAA9VVF?format=jpg&name=large",
+                    "url": "https://dlhd.sx/embed/stream-746.php",
+                    "isHost": "true"
+               },{
+                    "name": "BOLIVIA VS PERU OP3",
+                    "image": "https://pbs.twimg.com/media/F-ba3CQWEAA9VVF?format=jpg&name=large",
+                    "url": "https://dlhd.sx/embed/stream-4.php",
+                    "isHost": "true"
+              }, {
+		    "name": "BOLIVIA VS PERU iphone 1",
+		    "image": "https://pbs.twimg.com/media/F-ba3CQWEAA9VVF?format=jpg&name=large",
+		    "url" : "https://www.telegratishd.com/live6/latina.php",
+		    "referer" : "https://www.telegratishd.com",
+		    "isHost": "true"
+              }, {
+		    "name": "BOLIVIA VS PERU iphone 2",
+		    "image": "https://pbs.twimg.com/media/F-ba3CQWEAA9VVF?format=jpg&name=large",
+		    "url" : "https://www.telegratishd.com/live6/movistardeportes.php",
+		    "referer" : "https://www.telegratishd.com",
+		    "isHost": "true"
+               },{
+                    "name": "VENEZUELA VS ECUADOR OP1",
+                    "image": "https://pbs.twimg.com/media/F-bdYQTWEAAhJpN?format=jpg&name=large",
+                    "url": "https://dlhd.sx/embed/stream-79.php",
+                    "isHost": "true"
+               },{
+                    "name": "VENEZUELA VS ECUADOR OP2",
+                    "image": "https://pbs.twimg.com/media/F-bdYQTWEAAhJpN?format=jpg&name=large",
+                    "url": "https://dlhd.sx/embed/stream-10.php",
+                    "isHost": "true"
+               },{
+                    "name": "VENEZUELA VS ECUADOR OP3",
+                    "image": "https://pbs.twimg.com/media/F-bdYQTWEAAhJpN?format=jpg&name=large",
+                    "url": "https://dlhd.sx/embed/stream-72.php",
+                    "isHost": "true"
+               },{
+                    "name": "VENEZUELA VS ECUADOR OP4",
+                    "image": "https://pbs.twimg.com/media/F-bdYQTWEAAhJpN?format=jpg&name=large",
+                    "url": "https://dlhd.sx/embed/stream-127.php",
+                    "isHost": "true"
+               },{
+                    "name": "VENEZUELA VS ECUADOR OP5",
+                    "image": "https://pbs.twimg.com/media/F-bdYQTWEAAhJpN?format=jpg&name=large",
+                    "url": "https://dlhd.sx/embed/stream-135.php",
+                    "isHost": "true"
+               },{
+                    "name": "VENEZUELA VS ECUADOR OP6",
+                    "image": "https://pbs.twimg.com/media/F-bdYQTWEAAhJpN?format=jpg&name=large",
+                    "url": "https://dlhd.sx/embed/stream-143.php",
+                    "isHost": "true"
+               },{
+                    "name": "VENEZUELA VS ECUADOR EXCLUSIVO",
+                    "image": "https://pbs.twimg.com/media/F-bdYQTWEAAhJpN?format=jpg&name=large",
+                    "url": "https://tucanaldeportivo.com/ecfutbol.php",
+                    "isHost": "true"
+              }, {
+		    "name": "VENEZUELA VS ECUADOR iphone 1",
+		    "image": "https://pbs.twimg.com/media/F-bdYQTWEAAhJpN?format=jpg&name=large",
+		    "url" : "https://www.telegratishd.com/live6/caracol.php",
+		    "referer" : "https://www.telegratishd.com",
+		    "isHost": "true"
+              }, {
+		    "name": "VENEZUELA VS ECUADOR iphone 2",
+		    "image": "https://pbs.twimg.com/media/F-bdYQTWEAAhJpN?format=jpg&name=large",
+		    "url" : "https://www.telegratishd.com/live6/rcn.php",
+		    "referer" : "https://www.telegratishd.com",
+		    "isHost": "true"
                },{
                     "name": "ECUADOR VS CHILE OP1",
                     "image": "https://pbs.twimg.com/media/F_YIl6WWsAAd-ud?format=jpg&name=medium",
@@ -213,7 +282,7 @@
                     "url": "https://tucanaldeportivo.com/chilevision.php",
 		    "isHost": "true"
                },{
-                    "name": "ECUADOR VS CHILE OP6",
+                    "name": "ECUADOR VS CHILE iphone OP6",
                     "image": "https://pbs.twimg.com/media/F_YIl6WWsAAd-ud?format=jpg&name=medium",
                     "url": "https://dlhd.sx/embed/stream-642.php",
 		    "isHost": "true"
@@ -244,6 +313,7 @@
                     "url" : "https://www.telextrema.com/myr21Fs85fvd6/tycsports.php",
 		    "referer" : "https://www.telextrema.com",
 		    "isHost": "true"
+               },{
                },{
                     "name": "BRASIL VS ARGENTINA iphone 3",
                     "image": "https://pbs.twimg.com/media/F_YXDLEWMAA6k7_?format=jpg&name=medium",
